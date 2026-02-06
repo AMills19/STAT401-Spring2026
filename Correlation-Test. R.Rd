@@ -30,3 +30,16 @@ sample estimates:
 -0.8676594 
 
 #Accept the alternate hypothesis
+
+
+
+
+#Set the woring directory
+
+setwd("/Users/alexandermills/Downloads")
+
+#Read data.csv file in R 
+
+data <-read.csv("data.csv", header=TRUE)
+
+
